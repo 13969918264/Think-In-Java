@@ -1,1 +1,1 @@
-source code beside exercises in the book.
+source code (including exercises) in the book.
