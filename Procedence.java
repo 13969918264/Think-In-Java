@@ -1,10 +1,11 @@
+package operators;
 /*
 	姓名：赵子豪
-	日期：2019年7月8日
+	日期：2019年7月10日
 */
 //:	Precedence.java
 
-public class precedence {
+public class Procedence {
 	public static void main(String[], args) {
 		int x = 1, y = 2, z = 3;
 		int a = x + y - 2/2 + z;
