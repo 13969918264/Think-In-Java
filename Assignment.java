@@ -3,6 +3,7 @@
 	日期：2019年8月2日
 */
 //:	Assignment with objects is a bit tricky
+import java.util.*;
 
 class Tank {
 	int level;
