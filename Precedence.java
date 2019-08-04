@@ -3,6 +3,7 @@
  *	日期：2019年7月10日
  */
 //	Precedence.java
+import java.util.*;
 
 public class Precedence {
 	public static void main(String[] args) {
